@@ -1,14 +1,12 @@
-streamlit==1.32.0
-pytesseract
-pillow
-PyMuPDF
-PyPDF2
+# Simplified and essential requirements.txt based on your code
+streamlit
 pandas
+pytesseract
+spacy
+PyMuPDF # fitz is part of PyMuPDF
+pypdf2 # for PyPDF2.PdfReader
 openpyxl
-aiohttp
+requests
 beautifulsoup4
 lxml
-requests
-google-generativeai
-spacy
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+google-genai

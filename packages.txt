@@ -1,0 +1,4 @@
+# packages.txt content
+build-essential
+libgfortran5
+tesseract-ocr

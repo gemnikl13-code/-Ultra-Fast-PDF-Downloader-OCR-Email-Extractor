@@ -1,4 +1,4 @@
-# packages.txt content
+# packages.txt
 build-essential
 libgfortran5
 tesseract-ocr

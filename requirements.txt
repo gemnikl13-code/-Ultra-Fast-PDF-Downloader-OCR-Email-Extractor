@@ -1,12 +1,5 @@
-# Simplified and essential requirements.txt based on your code
-streamlit
-pandas
-pytesseract
+build-essential
+libgfortran5
+tesseract-ocr
+en_core_web_sm
 spacy
-PyMuPDF # fitz is part of PyMuPDF
-pypdf2 # for PyPDF2.PdfReader
-openpyxl
-requests
-beautifulsoup4
-lxml
-google-genai
